@@ -84,17 +84,17 @@ LogicLens/
 
 ## 📚 Featured Projects
 
-### 1. **Java Calculator**
+### 1. **E-Commerce Dashboard**
 
-A console-based calculator demonstrating object-oriented principles and user input handling in Java.
+A high-performance analytics dashboard featuring real-time data visualization and accessible UI components.
 
-### 2. **Python To-Do List**
+### 2. **TaskMaster App**
 
-A feature-rich task management application showcasing Python fundamentals, file I/O, and list operations.
+A mobile-first productivity application focusing on offline-first capabilities and seamless synchronization.
 
-### 3. **Editorial Blog Template**
+### 3. **Eco-Friendly Portal**
 
-A clean, minimal blog layout template designed for content-focused websites with responsive typography and spacing.
+A fully responsive landing page optimized for Core Web Vitals and SEO performance for a green startup.
 
 ---
 
@@ -127,4 +127,5 @@ Built with attention to detail, tested across devices, and refined through itera
 ---
 
 **Version:** 1.0.0 | **Last Updated:** February 2026
+
 
