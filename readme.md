@@ -6,7 +6,7 @@
 
 ## 📋 About the Project
 
-**LogicLens** is a modern, component-based portfolio built to demonstrate core web development skills through clean architecture and thoughtful design. As a 3rd-semester Computer Science student, I've crafted this showcase to highlight project work spanning multiple domains—from algorithmic problem-solving to practical full-stack applications.
+**LogicLens** is a modern, component-based portfolio built to demonstrate core web development skills through clean architecture and thoughtful design. As a 2rd-semester Digital Business Innovation student, I've crafted this showcase to highlight project work spanning multiple domains—from algorithmic problem-solving to practical full-stack applications.
 
 The philosophy behind LogicLens is simple: **merge technical rigor with polished presentation**. Every component is carefully structured, every interaction is intentional, and every design choice serves the user.
 
@@ -127,3 +127,4 @@ Built with attention to detail, tested across devices, and refined through itera
 ---
 
 **Version:** 1.0.0 | **Last Updated:** February 2026
+
